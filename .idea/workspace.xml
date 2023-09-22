@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13ac777-b08a-4af7-a99a-3ccfed247b63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/library/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/library/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/library/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/book/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/roles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/common/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/migrations/0002_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/library/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VOEGoryLKW569pUC2huuSLJ30y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "bekdev",
+    "last_opened_file_path": "/home/bekzod/Desktop/Django-darslari/Library/env/bin/python3.10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Library" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13ac777-b08a-4af7-a99a-3ccfed247b63" name="Changes" comment="" />
+      <created>1694698632631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694698632631</updated>
+      <workItem from="1694698633695" duration="4557000" />
+      <workItem from="1694780645553" duration="4644000" />
+      <workItem from="1694859066301" duration="3096000" />
+      <workItem from="1695040963106" duration="4814000" />
+      <workItem from="1695047860278" duration="1064000" />
+      <workItem from="1695114196772" duration="643000" />
+      <workItem from="1695126640135" duration="12426000" />
+      <workItem from="1695213126719" duration="3816000" />
+      <workItem from="1695371249615" duration="8308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Library$python3_10.coverage" NAME="python3.10 Coverage Results" MODIFIED="1694784451992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
